@@ -7,14 +7,13 @@
     "test": "mocha"
   },
   "keywords": [
-    "Tesla",
     "Alexa",
     "Exosite"
   ],
   "author": "Mark Seminatore",
   "license": "MIT",
   "dependencies": {
-    "alexa-app": "^2.3.4",
+    "alexa-app": "^3.0.0",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "lodash": "^4.17.3",
